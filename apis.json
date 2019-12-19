@@ -1,0 +1,42 @@
+{
+    "name": "ScrumNinja",
+    "description": "Scrum made simple.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1360-scrumninja.jpg",
+    "tags": [
+        "have api",
+        "programming",
+        "projects",
+        "scrum"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scrumninja\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ScrumNinja",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1360-scrumninja.jpg",
+            "humanURL": "http:\/\/www.scrumninja.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrumninja-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/scrumninjaapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.scrumninja.com\/api"
+        }
+    ]
+}
